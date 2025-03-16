@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrshadowexe/exe/main/myphoto.jpg" width="200" style="border-radius: 50%" alt="Profile Photo">
+  <img src="https://github.com/tukuexe/tukuexe/blob/main/IMG_20250220_111328.jpg" width="200" style="border-radius: 50%" alt="Profile Photo">
 </p>
 
 ---
@@ -53,12 +53,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=mrshadowexe&theme=tokyo-night" alt="Contribution Graph">
 </p>
 
----
 
-## 🎵 **Now Playing on Spotify:**  
-<p align="center">
-  <img src="https://novatorem-mrshadowexe.vercel.app/api/spotify" alt="Spotify Now Playing">
-</p>
 
 ---
 
@@ -111,5 +106,3 @@
 </p>
 
 ---
-
-## 🖥 **Custom ASCII Logo:**
