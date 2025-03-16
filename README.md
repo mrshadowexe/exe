@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Tuku! 🚀</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&width=450&lines=Hi+there!+I'm+Tuku+👋;Full-Stack+Developer+%7C+Cybersecurity+Enthusiast+%7C+AI+Geek">
+</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mrshadowexe/exe/main/myphoto.jpg" width="200" style="border-radius: 50%" alt="Profile Photo">
@@ -6,24 +8,24 @@
 
 ---
 
-### 👨‍💻 About Me:
-- 🔥 Passionate **Full-Stack Developer**, **AI Engineer**, and **Cybersecurity Enthusiast**  
-- 💡 Expert in **Python, JavaScript, C++, Rust, Go**, and more!  
-- 🎯 Building high-performance, **scalable web applications** & AI-driven projects  
-- 🏆 Multi-hackathon winner and contributor to open-source  
-- 📡 Currently working on **high-level AI integrations** and **blockchain security**  
-- 🚀 Experience in **ethical hacking, penetration testing, and OSINT tools**  
-- 🎨 Love designing **modern UI/UX** with **Figma & TailwindCSS**  
+## 🔥 **About Me:**  
+- 🚀 Passionate **Full-Stack Developer**, **AI Engineer**, and **Cybersecurity Enthusiast**  
+- 🔐 Expertise in **ethical hacking, penetration testing, and blockchain security**  
+- 💡 Experienced in **high-performance backend systems** & **AI-driven automation**  
+- 🏆 Multi-hackathon winner and **open-source contributor**  
+- 🎮 Competitive **eSports gamer** in **CS:GO & Valorant**  
+- 🏋️ Fitness freak, adventure sports lover, and music composer  
 
 ---
 
-## 🔥 **Tech Stack:**  
+## 🌟 **Tech Stack:**  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" alt="Go">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" alt="Rust">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js">
@@ -33,10 +35,29 @@
 
 ---
 
-## 🌟 **GitHub Stats:**  
+## 📊 **GitHub Stats & Contributions:**  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrshadowexe&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrshadowexe&theme=tokyonight" alt="GitHub Streak">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshadowexe&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
+
+---
+
+## 🔥 **Activity Graph:**  
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=mrshadowexe&theme=tokyo-night" alt="Contribution Graph">
+</p>
+
+---
+
+## 🎵 **Now Playing on Spotify:**  
+<p align="center">
+  <img src="https://novatorem-mrshadowexe.vercel.app/api/spotify" alt="Spotify Now Playing">
 </p>
 
 ---
@@ -60,13 +81,15 @@
 
 ---
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&width=450&lines=Hi+there!+I'm+Tuku+👋;Full-Stack+Developer+%7C+Cybersecurity+Enthusiast+%7C+AI+Geek">
-</h1>
+## 😂 **Programming Joke of the Day:**  
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Programming Joke">
+</p>
 
 ---
 
-### 🏆 **Fun Facts:**  
+## 🏆 **Fun Facts About Me:**  
 - 🎸 Can play **guitar** and compose music 🎵  
 - 🧠 Fluent in **4+ languages** including **Japanese & Spanish**  
 - 🏋️ Fitness freak & loves **adventure sports**  
@@ -74,12 +97,19 @@
 
 ---
 
-### 🎯 **Currently Working On:**  
+## 🎯 **Currently Working On:**  
 - 🚀 Building an **AI-powered chatbot** that predicts user emotions  
 - 🔒 Developing a **cybersecurity toolkit** for advanced penetration testing  
 - 🌐 Creating **Web3 applications** with blockchain integration  
 
 ---
 
-### ❤️ **Support Me:**  
-If you like my work, feel free to **star ⭐ my repositories** and **connect with me!**
+## 📈 **Visitors Counter:**  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrshadowexe&label=Profile+Views&color=red&style=for-the-badge" alt="Profile Views">
+</p>
+
+---
+
+## 🖥 **Custom ASCII Logo:**
