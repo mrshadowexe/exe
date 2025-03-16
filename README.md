@@ -60,6 +60,12 @@
 
 ---
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&width=450&lines=Hi+there!+I'm+Tuku+👋;Full-Stack+Developer+%7C+Cybersecurity+Enthusiast+%7C+AI+Geek">
+</h1>
+
+---
+
 ### 🏆 **Fun Facts:**  
 - 🎸 Can play **guitar** and compose music 🎵  
 - 🧠 Fluent in **4+ languages** including **Japanese & Spanish**  
